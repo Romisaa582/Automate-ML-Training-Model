@@ -3,7 +3,8 @@
 Alzheimer’s disease is a progressive neurological disorder that affects memory, thinking, and behavior. Early detection is crucial for effective management and treatment planning.
 
 This project leverages machine learning and AutoML techniques to analyze medical data and predict whether a patient is at risk of Alzheimer’s disease. By automating model selection, we ensure the best possible accuracy with minimal manual effort.
-
+# 📸 **Project Snapshots**
+(https://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20125006.png)  
 # 🛠 Features of the Project
 ✅ Data Preprocessing: Cleaning and preparing medical data for analysis.
 ✅ Exploratory Data Analysis (EDA): Visualizing key trends and patterns in the dataset.
