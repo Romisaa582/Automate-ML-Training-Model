@@ -1,5 +1,4 @@
 ## 🧠 Alzheimer's Disease Prediction Using Machine Learning & AutoML
-<p align="center"> <img src="https://your-image-link.com/logo.png" width="200" alt="Project Logo"> </p>
  📌 Overview
 Alzheimer’s disease is a progressive neurological disorder that affects memory, thinking, and behavior. Early detection is crucial for effective management and treatment planning.
 
